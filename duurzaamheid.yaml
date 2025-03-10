@@ -1,0 +1,131 @@
+duurzaamheid:
+  sets:
+    - id: 1
+      weetjes:
+        - tekst: "Zonnepanelen werken ook op bewolkte dagen."
+          g: 0
+        - tekst: "Plastic doet er honderden jaren over om af te breken."
+          g: 0
+        - tekst: "Katoenproductie verbruikt minder water dan synthetische stoffen."
+          g: 1
+        - tekst: "Elektrische auto’s stoten geen CO₂ uit tijdens het rijden."
+          g: 0
+        - tekst: "LED-lampen verbruiken minder energie dan gloeilampen."
+          g: 0
+
+    - id: 2
+      weetjes:
+        - tekst: "Bamboe groeit sneller dan de meeste bomen en is daardoor duurzaam."
+          g: 0
+        - tekst: "Windenergie veroorzaakt luchtvervuiling."
+          g: 1
+        - tekst: "Recycling bespaart energie in vergelijking met het maken van nieuwe producten."
+          g: 0
+        - tekst: "Veganistisch eten kan de CO₂-uitstoot verminderen."
+          g: 0
+        - tekst: "Composteren helpt om afval te verminderen."
+          g: 0
+
+    - id: 3
+      weetjes:
+        - tekst: "Waterstofauto’s stoten alleen water uit als emissie."
+          g: 0
+        - tekst: "Biologisch afbreekbare plastics lossen volledig op in de natuur zonder schade."
+          g: 1
+        - tekst: "Duurzame visserij voorkomt overbevissing."
+          g: 0
+        - tekst: "Elektrische apparaten verbruiken nog steeds een beetje stroom als ze op stand-by staan."
+          g: 0
+        - tekst: "Regenwater kan worden opgevangen en gebruikt voor huishoudelijke taken."
+          g: 0
+
+    - id: 4
+      weetjes:
+        - tekst: "Bossen nemen CO₂ op en helpen klimaatverandering tegengaan."
+          g: 0
+        - tekst: "Palmolieproductie draagt altijd bij aan ontbossing."
+          g: 1
+        - tekst: "Biobrandstoffen kunnen de afhankelijkheid van fossiele brandstoffen verminderen."
+          g: 0
+        - tekst: "Het verminderen van voedselverspilling verlaagt de ecologische voetafdruk."
+          g: 0
+        - tekst: "Treinen zijn milieuvriendelijker dan auto’s voor lange afstanden."
+          g: 0
+
+    - id: 5
+      weetjes:
+        - tekst: "Zonne-energie is onuitputtelijk."
+          g: 0
+        - tekst: "Elektrische auto’s zijn altijd beter voor het milieu dan benzineauto’s."
+          g: 1
+        - tekst: "Duurzame kleding is vaak gemaakt van gerecyclede materialen."
+          g: 0
+        - tekst: "Warmtepompen verbruiken minder energie dan traditionele verwarmingssystemen."
+          g: 0
+        - tekst: "Waterkracht is een vorm van hernieuwbare energie."
+          g: 0
+
+    - id: 6
+      weetjes:
+        - tekst: "De aarde heeft een beperkte hoeveelheid zoet water."
+          g: 0
+        - tekst: "Glas kan oneindig vaak worden gerecycled."
+          g: 0
+        - tekst: "Kernenergie is een hernieuwbare energiebron."
+          g: 1
+        - tekst: "Elektrische fietsen kunnen autogebruik verminderen."
+          g: 0
+        - tekst: "Plantaardige voeding heeft vaak een lagere ecologische voetafdruk dan dierlijke voeding."
+          g: 0
+
+    - id: 7
+      weetjes:
+        - tekst: "LED-verlichting bespaart energie en gaat langer mee dan gloeilampen."
+          g: 0
+        - tekst: "Biologisch eten is per definitie beter voor het milieu."
+          g: 1
+        - tekst: "Waterbesparende douchekoppen helpen om minder water te verbruiken."
+          g: 0
+        - tekst: "Daken kunnen worden vergroend om de stad te koelen."
+          g: 0
+        - tekst: "Microplastics komen in de oceaan terecht en schaden het zeeleven."
+          g: 0
+
+    - id: 8
+      weetjes:
+        - tekst: "Recycling van aluminium bespaart veel energie in vergelijking met nieuw aluminium winnen."
+          g: 0
+        - tekst: "Elektrische auto’s hebben een lagere CO₂-uitstoot over hun levensduur dan dieselauto’s."
+          g: 0
+        - tekst: "Groen gas is een fossiele brandstof."
+          g: 1
+        - tekst: "Het isoleren van je huis helpt energie te besparen."
+          g: 0
+        - tekst: "Waterbesparing is belangrijk, ook in regenachtige landen."
+          g: 0
+
+    - id: 9
+      weetjes:
+        - tekst: "Fast fashion draagt bij aan milieuvervuiling."
+          g: 0
+        - tekst: "Plastic kan volledig worden afgebroken in oceanen binnen tien jaar."
+          g: 1
+        - tekst: "Biogas wordt geproduceerd uit organisch afval."
+          g: 0
+        - tekst: "Elektriciteit uit zonneparken is hernieuwbaar."
+          g: 0
+        - tekst: "Het gebruik van lokaal voedsel vermindert de CO₂-uitstoot door transport."
+          g: 0
+
+    - id: 10
+      weetjes:
+        - tekst: "Batterijen van elektrische auto’s kunnen worden gerecycled."
+          g: 0
+        - tekst: "Papieren tassen zijn altijd milieuvriendelijker dan plastic tassen."
+          g: 1
+        - tekst: "Het verminderen van vleesconsumptie helpt de ontbossing te beperken."
+          g: 0
+        - tekst: "Windturbines veroorzaken geen CO₂-uitstoot tijdens energieopwekking."
+          g: 0
+        - tekst: "Waterbesparende toiletten helpen de waterconsumptie te verminderen."
+          g: 0
